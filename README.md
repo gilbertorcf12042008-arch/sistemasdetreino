@@ -1,2 +1,2 @@
 # sistemasdetreino
-Sistema de treino, menu para personal trainner
+Sistema de treino, com menu para personal trainner
